@@ -6,3 +6,6 @@
 * SvelteKit (https://svelte.dev/docs/kit/introduction)
 * TaildwindCSS (https://tailwindcss.com/)
 * ShadCN-Svelte (https://www.shadcn-svelte.com/)
+
+**Back-end**
+https://github.com/eddietal2/e-commerce-backend
