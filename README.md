@@ -6,7 +6,11 @@
 * SvelteKit (https://svelte.dev/docs/kit/introduction)
 * TaildwindCSS (https://tailwindcss.com/)
 * ShadCN-Svelte (https://www.shadcn-svelte.com/)
-* Gemini & Claud for debugging help, ideation, research, and learning
+* Linear for Project Management (https://linear.app/)
+* Gemini & Claud  (https://claude.ai/ & https://gemini.google.com/)
+  -- I use "AI" for debugging help, ideation, research, and learning. I do NOT use AI to code apps for me. If I do generate AI Code, its small, isolated chunks that I can produce on my own, and debug on my own.
 
 **Back-end**
 https://github.com/eddietal2/e-commerce-backend
+* PostgreSQL
+* Superbase
