@@ -6,7 +6,7 @@
 * SvelteKit (https://svelte.dev/docs/kit/introduction)
 * TaildwindCSS (https://tailwindcss.com/)
 * ShadCN-Svelte (https://www.shadcn-svelte.com/)
-* Linear for Project Management (https://linear.app/)
+* Linear for Project Management (https://linear.app/) -- This tends to help even if I am coding this on my own.
 * Gemini & Claud  (https://claude.ai/ & https://gemini.google.com/)
   -- I use "AI" for debugging help, ideation, research, and learning. I do NOT use AI to code apps for me. If I do generate AI Code, its small, isolated chunks that I can produce on my own, and debug on my own.
 
